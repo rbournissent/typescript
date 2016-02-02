@@ -1,0 +1,8 @@
+#Node modules
+node_modules/
+
+#IDE Files
+.vscode/
+
+#Build files
+server/
